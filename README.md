@@ -10,9 +10,11 @@ A repository for all of technical articles written by Taofiq Aiyelabegan.
 - [Creating and styling a modal bottom sheet in React Native](https://blog.logrocket.com/creating-styling-modal-bottom-sheet-react-native/)
 - [Build a full-stack app with Next.js and Supabase](https://blog.logrocket.com/build-full-stack-app-next-js-supabase/)
 - [Creating split OTP input fields in React Native](https://blog.logrocket.com/creating-split-otp-input-fields-react-native/)
+- [Building a full-stack app with Remix and Prisma](https://blog.logrocket.com/building-full-stack-app-with-remix-prisma/)
 
 ## OPENREPLAY
 - [React Hook Form Vs. Formik](https://blog.openreplay.com/doing-forms--react-hook-form-vs-formik/)
+- [How to stop React components from re-rendering](https://blog.openreplay.com/how-to-stop-react-components-from-rerendering/)
 
 ## REFLECT
 - [Using Playwright for API Testing](https://reflect.run/articles/using-playwright-for-api-testing/)
