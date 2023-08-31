@@ -21,3 +21,7 @@ A repository for all of technical articles written by Taofiq Aiyelabegan.
 
 ## STRAPI
 - [How to Optimize Performance of Strapi-Powered Websites and Applications](https://strapi.io/blog/how-to-optimize-performance-of-strapi-powered-websites-and-applications-techniques-and-best-practices)
+
+## HASHNODE
+
+- [How to Combine and Make Drawer and Bottom Tab Navigators Visible on Every Screen in React Native](https://taofiqcodes.hashnode.dev/how-to-combine-and-make-drawer-and-bottom-tab-navigators-visible-on-every-screen-in-react-native)
