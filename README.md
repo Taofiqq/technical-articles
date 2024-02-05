@@ -24,7 +24,7 @@ A repository for all of technical articles written by Taofiq Aiyelabegan.
 
 ## DIGITAL OCEAN
 
-- [Understanding Guards in NestJS] (https://www.digitalocean.com/community/tutorials/understanding-guards-in-nestjs)
+- [Understanding Guards in NestJS](https://www.digitalocean.com/community/tutorials/understanding-guards-in-nestjs)
 
 ## HASHNODE
 
