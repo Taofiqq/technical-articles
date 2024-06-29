@@ -25,6 +25,9 @@ A repository for all of technical articles written by Taofiq Aiyelabegan.
 ## DIGITAL OCEAN
 
 - [Understanding Guards in NestJS](https://www.digitalocean.com/community/tutorials/understanding-guards-in-nestjs)
+- [A Guide on Dependency Injection in NestJS](https://www.digitalocean.com/community/tutorials/a-guide-on-dependency-injection-in-nestjs)
+- [Understanding Circular Dependency in NestJS](https://www.digitalocean.com/community/tutorials/understanding-circular-dependency-in-nestjs)
+- [Publish-Subsribe Pattern in Node.js](https://www.digitalocean.com/community/tutorials/publish-subscribe-pattern-in-node-js)
 
 ## HASHNODE
 
