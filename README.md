@@ -32,3 +32,7 @@ A repository for all of technical articles written by Taofiq Aiyelabegan.
 ## HASHNODE
 
 - [How to Combine and Make Drawer and Bottom Tab Navigators Visible on Every Screen in React Native](https://taofiqcodes.hashnode.dev/how-to-combine-and-make-drawer-and-bottom-tab-navigators-visible-on-every-screen-in-react-native)
+
+## PERMIT.io
+
+- [Building a Multi-tenant E-commerce API: Fine-grained Authorization with Nest.js and Permit.io](https://medium.com/@taofiqaiyelabegan/building-a-multi-tenant-e-commerce-api-fine-grained-authorization-with-nest-js-and-permit-io-ddd2ca77d19d)
