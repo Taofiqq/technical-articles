@@ -36,6 +36,9 @@ A repository for all of technical articles written by Taofiq Aiyelabegan.
 ## PERMIT
 
 - [Building a Multi-tenant E-commerce API: Fine-grained Authorization with Nest.js and Permit.io](https://medium.com/@taofiqaiyelabegan/building-a-multi-tenant-e-commerce-api-fine-grained-authorization-with-nest-js-and-permit-io-ddd2ca77d19d)
+- [Fine-Grained Access Control for n8n Workflows](https://www.permit.io/blog/fine-grained-access-control-for-n8n-workflows)
+- [Implementing Access Control in Langchain: The Four-Perimeter Approach](https://www.permit.io/blog/implementing-access-control-in-langchain-guide)
+- [How to Implement RBAC in an Express.js Application](https://www.permit.io/blog/how-to-implement-rbac-in-an-expressjs-application)
 
 ## TWILIO
 - [Build an AI-Powered Meeting Summarizer with Twilio Voice, SendGrid, OpenAI, and Python](https://www.twilio.com/en-us/blog/build-an-ai-powered-meeting-summarizer-with-twilio-voice--sendgr)
